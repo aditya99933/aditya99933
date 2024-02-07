@@ -1,6 +1,6 @@
-- 👋 Hi, I’m Aditya
-- 👀 I’m interested in web development and coding.
-- 🌱 I’m currently learning React and DSA
+- 👋 Hi, I’m Aditya Kumar
+- 👀 I love to design and develop those designs on websites
+- 🌱 I’m currently exploring the frameworks of the Frontend 
 - 🌱 Eat, Sleep and Debug!!
 <!---
 aditya99933/aditya99933 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
